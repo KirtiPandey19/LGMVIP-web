@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 60px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.button:hover {
+    background-color: pink;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    font-size: 20px;
+    padding: 10px 0px;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
