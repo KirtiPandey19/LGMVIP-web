@@ -1,2 +1,0 @@
-# LGMVIP-web
-new repo
